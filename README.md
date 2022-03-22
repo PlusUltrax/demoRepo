@@ -1,3 +1,3 @@
 # demo
 
-This is some plain text description for a demo readme document. 
+This is some plain text description for a demo read me document. 
